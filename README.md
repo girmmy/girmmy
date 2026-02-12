@@ -2,11 +2,9 @@
 
 <img align="right" alt="GIF" height="180px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-## 🚀 Ambitious Student Developer | AI & Frontend Focused
+## 🚀 Founder @ Bantr | Incoming CS @ Georgia Tech
 
-- 💻 I’m currently building **AI-powered web apps** and creating impactful client projects.
-- 🌱 Learning **Next.js**, improving UI/UX, and leveling up my full-stack skills.
-- 🎯 Future Goals: **Innovate with AI**, **scale meaningful projects**, and **grow as a tech leader**.
+- 💻 I’m currently building Bantr, a live online debating platform with video and audio rooms to debate in.
 
 ---
 
