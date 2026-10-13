@@ -2,9 +2,13 @@
 
 **CS @ Georgia Tech.** I build AI agent tooling — MCP servers, Claude/Codex skills, and agents that do real work — plus the full-stack apps around them.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-gimmy--samson.com-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://gimmy-samson.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/girmachew-samson/)
-[![npm](https://img.shields.io/badge/npm-@girmmy-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~girmmy)
+<p>
+  <a href="https://gimmy-samson.com/" title="Portfolio — gimmy-samson.com"><img src="assets/link-portfolio.svg" width="34" height="34" alt="Portfolio"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/girmachew-samson/" title="LinkedIn"><img src="assets/link-linkedin.svg" width="34" height="34" alt="LinkedIn"></a>
+  &nbsp;
+  <a href="https://www.npmjs.com/~girmmy" title="npm packages"><img src="assets/link-npm.svg" width="34" height="34" alt="npm"></a>
+</p>
 
 ---
 
@@ -52,40 +56,40 @@
 
 **Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1F2328?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1F2328?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-1F2328?style=flat-square&logo=python&logoColor=4B8BBE)
+![Java](https://img.shields.io/badge/Java-1F2328?style=flat-square&logo=openjdk&logoColor=E76F00)
+![SQL](https://img.shields.io/badge/SQL-1F2328?style=flat-square&logo=postgresql&logoColor=6AA3D5)
+![HTML5](https://img.shields.io/badge/HTML5-1F2328?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1F2328?style=flat-square&logo=css3&logoColor=1572B6)
 
 **Frameworks & runtime**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-1F2328?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-1F2328?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/Node.js-1F2328?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Electron](https://img.shields.io/badge/Electron-1F2328?style=flat-square&logo=electron&logoColor=9FEAF9)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1F2328?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Vite](https://img.shields.io/badge/Vite-1F2328?style=flat-square&logo=vite&logoColor=A78BFA)
 
 **AI & agents**
 
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat-square&logo=anthropic&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Model Context Protocol](https://img.shields.io/badge/Model_Context_Protocol-1F2328?style=flat-square&logo=anthropic&logoColor=FFFFFF)
+![Claude API](https://img.shields.io/badge/Claude_API-1F2328?style=flat-square&logo=anthropic&logoColor=D97757)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-1F2328?style=flat-square&logo=openai&logoColor=FFFFFF)
+![Gemini](https://img.shields.io/badge/Gemini-1F2328?style=flat-square&logo=googlegemini&logoColor=A78BFA)
+![Ollama](https://img.shields.io/badge/Ollama-1F2328?style=flat-square&logo=ollama&logoColor=FFFFFF)
 
 **Data & infra**
 
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-1F2328?style=flat-square&logo=supabase&logoColor=3FCF8E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2328?style=flat-square&logo=postgresql&logoColor=6AA3D5)
+![Firebase](https://img.shields.io/badge/Firebase-1F2328?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Vercel](https://img.shields.io/badge/Vercel-1F2328?style=flat-square&logo=vercel&logoColor=FFFFFF)
+![Netlify](https://img.shields.io/badge/Netlify-1F2328?style=flat-square&logo=netlify&logoColor=00C7B7)
+![Git](https://img.shields.io/badge/Git-1F2328?style=flat-square&logo=git&logoColor=F05032)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1F2328?style=flat-square&logo=githubactions&logoColor=2088FF)
 
 ---
 
