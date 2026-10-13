@@ -62,7 +62,7 @@
 ![Java](https://img.shields.io/badge/Java-1F2328?style=flat-square&logo=openjdk&logoColor=E76F00)
 ![SQL](https://img.shields.io/badge/SQL-1F2328?style=flat-square&logo=postgresql&logoColor=6AA3D5)
 ![HTML5](https://img.shields.io/badge/HTML5-1F2328?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1F2328?style=flat-square&logo=css3&logoColor=1572B6)
+![CSS3](https://img.shields.io/badge/CSS3-1F2328?style=flat-square&logo=css&logoColor=1572B6)
 
 **Frameworks & runtime**
 
@@ -77,7 +77,7 @@
 
 ![Model Context Protocol](https://img.shields.io/badge/Model_Context_Protocol-1F2328?style=flat-square&logo=anthropic&logoColor=FFFFFF)
 ![Claude API](https://img.shields.io/badge/Claude_API-1F2328?style=flat-square&logo=anthropic&logoColor=D97757)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-1F2328?style=flat-square&logo=openai&logoColor=FFFFFF)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-1F2328?style=flat-square)
 ![Gemini](https://img.shields.io/badge/Gemini-1F2328?style=flat-square&logo=googlegemini&logoColor=A78BFA)
 ![Ollama](https://img.shields.io/badge/Ollama-1F2328?style=flat-square&logo=ollama&logoColor=FFFFFF)
 
